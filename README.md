@@ -21,5 +21,7 @@ Deletar index.css
 Deletar App.css
 
 No App.jsx vamos apagar todo o return e removemos a constante
+Removemos todas inportações do App.jsx
 
+Trabalharemos em cima do App.jsx
     
